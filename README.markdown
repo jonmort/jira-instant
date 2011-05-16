@@ -37,3 +37,10 @@ The following commands are useful (assuming that the [Atlassian Plugin SDK](http
      $ rm ../jira-instant.zip && \
         zip -r ../jira-instant.zip * -x README.markdown && \
         curl -uadmin:admin -F plugin-file=@../jira-instant.zip http://localhost:2990/jira/rest/speakeasy/1/plugins
+
+Chrome Exension
+===============
+
+JIRA instant search is now available as a chrome extension to add instant searching capabilities to JIRA installations without speak easy installed.
+
+[Install the extension here](https://github.com/downloads/jonmort/jira-instant/jira-instant.crx)
