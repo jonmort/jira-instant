@@ -1,0 +1,13 @@
+{
+  "name": "JIRA Instant Search",
+  "version": "1.0.0",
+  "description": "Instant Search for JIRA",
+  "content_scripts": [
+    {
+      "matches": ["*://*/secure/IssueNavigator*"],
+      "js": ["jquery-1.6.1.min.js", "instant.js"],
+      "run_at": "document_idle"
+    }
+  ]
+    
+}
