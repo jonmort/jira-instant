@@ -1,0 +1,9 @@
+{
+  "key":       "instant-search",
+  "name":      "JIRA Instant Search",
+  "description":  "Adds instant searching capabilities to the JIRA Search Issues page",
+  "version":    "1.0.0",  
+  "vendor": {  "name": "Jon Mort",
+           "url": "http://github.com/jira-instant",
+           "email": "jonmort@gmail.com" }
+}
