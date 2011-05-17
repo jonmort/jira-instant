@@ -2,7 +2,7 @@ JIRA Instant Search for Speakeasy
 ======================
 Simply adds instant search to the JIRA search page. Simple. 
 
-An entry into (Codegeist)[http://codegeist.atlassian.com/]
+An entry into [Codegeist](http://codegeist.atlassian.com/)
 
 
 Supported Products
